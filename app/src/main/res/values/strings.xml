@@ -4,10 +4,8 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
-    <color name="primary">#2E8B57</color>
-    <color name="primary_dark">#8FBC8F</color>
-    <color name="accent">#666</color>
-
-<!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <color name="primary">#FF7D49</color>
+    <color name="primary_dark">#FF5815</color>
+    <color name="accent">#eee</color>
+    <color name="text_color_primary">#666</color>
 </resources>
